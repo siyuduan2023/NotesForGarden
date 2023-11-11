@@ -1,7 +1,6 @@
-import notes from "../notes";
 
-function Note() {
-  console.log(notes[0]);
+
+function Note(props) {
 
   function createCard(single) {
     return (
@@ -12,6 +11,6 @@ function Note() {
     );
   }
 
-  return <>{notes.map(createCard)}</>;
+  return <>{props.notes.map(createCard)}</>;
 }
 export default Note;

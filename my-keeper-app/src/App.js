@@ -1,7 +1,13 @@
+import Header from './components/Header';
+import Footer from './components/Footer';
+import Note from './components/Note';
+
 function App() {
     return (
         <>
-        <p>Morning</p>
+        <Header />
+        <Note />
+        <Footer />
         </>
     )
 }

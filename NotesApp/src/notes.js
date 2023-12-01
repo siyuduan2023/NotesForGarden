@@ -10,21 +10,30 @@ const notes = [
     },
     {
       key: 2,
-      title: "Loops",
+      title: "Pear Tree",
       content:
-        "How to keep a programmer in the shower forever. Show him the shampoo bottle instructions: Lather. Rinse. Repeat."
+        "Autumn fruiting Delicious! Can grow 8m by 8m depending on pruning/training. Full sun. Deciduous Tree/hedging plant",
+      genus: "Pyrus",
+      species: "communis",
+      family: "Rosaceae"
     },
     {
       key: 3,
-      title: "Arrays",
+      title: "Jerusalem artichoke",
       content:
-        "Q. Why did the programmer quit his job? A. Because he didn't get arrays."
+        "Grows very tall! Seeks the light. Grown from tubers. From 'girosole' - Italian for sunflower Autumn flowering and harvest/division Up to 3/4m tall. Will spread via rhizomes Herbaceous/tuberou s perennial.",
+      genus: "Helianthus",
+      species: "tuberosus",
+      family: "Asteraceae"
     },
     {
       key: 4,
-      title: "Hardware vs. Software",
+      title: "Dock",
       content:
-        "What's the difference between hardware and software? You can hit your hardware with a hammer, but you can only curse at your software."
+        "Can be up to a metre and a half Known as a 'broadleaf' weed of lawns and hedges, but is actually very useful. Perennial. Thick Taproot - often useful for drawing minerals up from the soil, excellent to compost.",
+      genus: "Rumex",
+      species: "obtusifolius",
+      family: "Polyganaceae"
     }
   ];
 

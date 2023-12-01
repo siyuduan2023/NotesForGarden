@@ -10,6 +10,7 @@ function Note(props) {
         <p>{single.genus}</p>
         <p>{single.species}</p>
         <p>{single.family}</p>
+        <p>Month: {single.family}</p>
       </div>
     );
   }

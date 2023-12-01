@@ -3,7 +3,10 @@ const notes = [
       key: 1,
       title: "Rosemary",
       content:
-        "Evergreen. Growth 2m * 2m. Take hardwood cuttings throughout summer/autumn. Aromatic pereninal."
+        "Evergreen. Growth 2m * 2m. Take hardwood cuttings throughout summer/autumn. Aromatic pereninal.",
+      genus: "Rosemarinus",
+      species: "officinalis",
+      family: "Lamiaceae"
     },
     {
       key: 2,

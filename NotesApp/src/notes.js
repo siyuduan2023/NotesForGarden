@@ -1,9 +1,9 @@
 const notes = [
     {
       key: 1,
-      title: "Delegation",
+      title: "Rosemary",
       content:
-        "Q. How many programmers does it take to change a light bulb? A. None – It’s a hardware problem"
+        "Evergreen. Growth 2m * 2m. Take hardwood cuttings throughout summer/autumn. Aromatic pereninal."
     },
     {
       key: 2,
